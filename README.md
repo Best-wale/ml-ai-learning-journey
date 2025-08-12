@@ -7,4 +7,4 @@
 - [ ] Build 3 ML projects
 
 ## Current Focus
-Working through NumPy fundamentals. See [`numpy/Numpy.ipynb`](numpy/Numpy.ipynb).
+Working through NumPy fundamentals. See [`Numpy/Numpy.ipynb`](numpy/Numpy.ipynb).
