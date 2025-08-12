@@ -1,0 +1,9 @@
+.venv/
+dataset/
+boston.csv
+dataframe.xlsx
+learning.ipynb
+Predicting_House_price.ipynb
+Untitled.ipynb
+Oga --ChatBot/
+.ipynb_checkpoints/
